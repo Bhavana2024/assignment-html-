@@ -1,0 +1,26 @@
+
+*{
+   MARGIN:0;
+   padding: 0;
+}.head{
+    height:80px;
+    width: 100%;
+    background-color:#35A29F;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+ .body{
+    height: 580px;
+    width:100%; 
+    background-color:#0B666A;
+ 
+ }
+  
+ .footer{
+    height:80px;
+    width:100%;
+    background-color:#071952;
+    display:flex;
+    justify-content: space-around;
+ }
