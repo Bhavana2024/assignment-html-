@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task2</title>
+    <link rel="stylesheet" href="task1.css">
+ </head>
+ <body>
+    <div class="main">
+        <div class="head">
+         <h1><B> Required Information</h1></B>
+          <li><a href="">HOME</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Contact</a></li>
+          <li><a href="">Service</a></li>
+          <li><a href="">Feedback</a></li>
+          <li><a href="">Login</a></li>
+        </div>
+        <div class="body">
+            
+            <div class="b1">page-1</div>
+            <div class="b2">page-2</div>
+            <div class="b3">page-3</div>
+
+        </div>
+        <div class="footer">
+            <pre><b> Contact Us:</b>
+                212-3456-243
+          <b>      layoutdetails@gmail.com</b>
+         <b>        www.layout.com</b>
+                  </pre>
+                  <pre>
+                     <b>Support</b>
+                     FAQ
+                     Help Desk
+                     Format
+                  </pre>
+                  <PRE><B>         Know us:</B>
+                     Instagram
+                     Facebook
+                     RSS
+                  </PRE>
+                  <pre><b>          Address:</b>
+                     12-3A,casfoem street-5 
+                     Sequad City,London,UK</pre>
+        </div>
+
+    </div>
+ </body>
+ </html>
