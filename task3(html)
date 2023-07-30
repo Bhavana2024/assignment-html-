@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task3</title>
+    <link rel="stylesheet" href="task3.css">
+</head>
+<body>
+    <div class="position">
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem odio totam perferendis, optio repudiandae. </p>
+     </div>
+     <img src="college_student.jpeg" class="imag">
+  <p class="p1"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facilis voluptate alias? Ullam quae reprehenderit ratione cum odit reiciendis mollitia dolorem perferendis porro nostrum aliquam, praesentium suscipit quasi in beatae.
+Consectetur, quae molestiae atque ducimus tempora asperiores laudantium distinctio odit quam nesciunt delectus eligendi? Similique maxime earum animi laudantium. Suscipit quo itaque maxime ex. Voluptatem, nemo? Eius cum dolores rerum.
+Sapiente ut, similique id, praesentium esse, temporibus excepturi deleniti sint eum necessitatibus sequi quibusdam neque? Ad adipisci rerum, iste nam ipsum unde, accusantium facilis, odio ex perspiciatis nesciunt veritatis doloribus.
+Distinctio provident sed numquam consequuntur, cum fuga maxime voluptate iure in aspernatur animi vitae autem voluptatibus! Nam rem et sequi unde possimus velit nobis deserunt aliquam, itaque ipsa enim doloribus.
+Dolor  eligendi? Enim nam dolorum necessitatibus aliquid maiores nobis in non ducimus nihil, excepturi hic amet possimus qui, pariatur voluptatibus ipsum natus debitis aperiam.</p> 
+</body>
+</html>
