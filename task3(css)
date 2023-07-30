@@ -1,0 +1,21 @@
+.imag{
+    position:absolute;
+    height: 120px;
+    left:1250px;
+margin:10px;
+    border-radius: 50%;
+ }
+.position{
+
+     position: absolute;
+    top: 650px;
+    margin:15px;
+  
+}
+.p1{
+    position:absolute; 
+    top:250px;
+    left:150px;
+    right:150px;    
+     
+}
