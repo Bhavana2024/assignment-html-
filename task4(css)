@@ -1,0 +1,32 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+background-color: lightblue;
+ }.head{
+     height:5%;
+     width: 100%;
+     background-color:blue;
+     display:flex;
+     align-items: center;
+     justify-content: center;
+     position:fixed;
+     opacity:0.65;
+     color:white;
+   }
+  .body{
+     height: 80%;
+     width:100%; 
+     background-color:#0B666A;
+     position:fixed;
+  
+  }
+   
+  .footer{
+     height:80px;
+     width:100%;
+     background-color:#071952;
+     display:flex;
+     justify-content: space-around;
+  }
